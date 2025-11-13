@@ -16,7 +16,7 @@ export default function Page() {
           Finance built for the way you live
         </h3>
       </section>
-      <section className="w-[444px] p-6 bg-secondary rounded-lg border-2 mt-8 border-solid   min-h-[200px]">
+      <section className="w-[444px] p-6 bg-secondary rounded-2xl border-2 mt-8 border-solid   min-h-[200px]">
         <div>
           <h1 className="text-lg font-medium text-primary-dark"> Welcome</h1>
           <h4 className="font-thin text-secondary-dark">
