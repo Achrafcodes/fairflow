@@ -9,14 +9,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: { DEFAULT: '#84FFAF', dark: '#333333' },
+        primary: { DEFAULT: '#a8f5a4', dark: '#333333' },
         secondary: { DEFAULT: '#FFFFFF', dark: '#7F7F7F' },
       },
       fontFamily: {
         sans: ['Sofia Sans', 'sans-serif'],
       },
       fontSize: {
-        h1: ['32px', { lineHeight: '1.2', fontWeight: '600' }],
+        h1: [{ lineHeight: '1.2', fontWeight: '600' }],
       },
     },
   },
